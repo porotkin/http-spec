@@ -1,3 +1,4 @@
+export * from './asyncapi';
 export * from './oas';
 export * from './oas2';
 export * from './oas3';

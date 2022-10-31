@@ -61,6 +61,14 @@
     "./postman/operation": {
       "types": "./postman/operation.d.ts",
       "default": "./postman/operation.js"
+    },
+    "./asyncapi": {
+      "types": "./asyncapi/index.d.ts",
+      "default": "./asyncapi/index.js"
+    },
+    "./asyncapi/operation": {
+      "types": "./asyncapi/operation.d.ts",
+      "default": "./asyncapi/operation.js"
     }
   },
   "scripts": {
